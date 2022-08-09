@@ -1,0 +1,28 @@
+INTRODUCTION:
+
+Hello, Hope You are doing well.  we are going to build something real beautiful python program. We will build an identity card generator python program. So, the purpose of this program is to create a digital identity card for an Tunisie Telecom. Also, we have integrated aQR code to make a personal identity more unique which can be accessed by other digital devices too.
+
+LIBRARIES :
+
+imported Libraries
+>>> import random
+>>> import os
+>>> import datetime
+>>> import qrcode
+>>> from PIL import Image, ImageDraw, ImageFont,TkImage
+>>> import messagebox
+
+STEPS INVOLVED TO RUN THE ID CARD GENERATOR PROGRAM:
+
+a. Install Python, QRcode, and PIL library on your computer. 
+
+b. Just need to run id_card_generator.py
+
+c. All fields are mandatory
+
+d. Avoid any kind of spelling mistake
+
+e. Enjoy the Digital ID card
+
+
+                            THANKS FOR YOUR TIME 
